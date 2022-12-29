@@ -1,3 +1,3 @@
-def echo(String  name = 'human'){
+def print(name){
     echo "Hello ${name}."
 }

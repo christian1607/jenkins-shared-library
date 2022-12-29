@@ -1,3 +1,3 @@
-def info(name){
+def imprimeMessage(name){
     echo "Hello ${name}."
 }

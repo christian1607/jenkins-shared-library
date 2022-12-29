@@ -1,3 +1,3 @@
-def print(name){
+def info(name){
     echo "Hello ${name}."
 }
